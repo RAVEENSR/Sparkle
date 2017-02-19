@@ -1,0 +1,17 @@
+#body{
+    background: #181818;
+}
+#poll{
+    margin-top: 2.5%;
+    background: linear-gradient(to left, #FFB75E , #ED8F03); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#poll h1{
+    font-size: 20px;
+    color: blueviolet;
+}
+#footer{
+    background-color: red;
+    height: 10px;
+    width: 66px;
+}

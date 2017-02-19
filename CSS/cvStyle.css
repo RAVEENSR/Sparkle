@@ -1,0 +1,37 @@
+#body{
+	background:#181818;
+}
+#head{
+	border-bottom: 2px solid #cf8a05;
+	width:50%;
+	margin-top:20px;
+    background: #ededed;
+}
+
+.hrline {
+	 border-color:#939393;
+}
+.title{
+	float: left;
+	width: 20%;
+	margin-left: 100px;
+}
+.title h1 {
+	width: 20px;
+	
+	font-style: italic;
+	font-size: 1.5em;
+	color: #cf8a05;
+}
+.content {
+	float: right;
+	width: 60%;
+	margin-right:50px;
+    font-family: 'Slabo 27px', serif;
+    font-size: 18px;
+}
+#mainContent{
+	width:50%;
+    background: #ededed;
+   
+}

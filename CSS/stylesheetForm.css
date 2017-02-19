@@ -1,0 +1,20 @@
+
+label {
+	display: inline-block;
+	width: 100px;
+	text-align: left;
+	margin-bottom: 8px;
+}
+button {
+	display: inline-block;
+}
+fieldset {
+	display: block;
+	margin-left: 2px;
+	margin-right: 65%;
+	padding-top: 0.35em;
+	padding-bottom: 0.625em;
+	padding-left: 0.75em;
+	border: 2px groove (internal value);
+}
+
